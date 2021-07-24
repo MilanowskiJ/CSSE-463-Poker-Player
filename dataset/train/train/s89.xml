@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s89.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>190</width>
+		<height>265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eight of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>187</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

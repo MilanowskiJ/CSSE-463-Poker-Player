@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>77.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>12</ymin>
+			<xmax>420</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

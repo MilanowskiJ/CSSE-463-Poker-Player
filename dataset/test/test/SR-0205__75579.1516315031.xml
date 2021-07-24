@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>SR-0205__75579.1516315031.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/SR-0205__75579.1516315031.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>335</ymin>
+			<xmax>1463</xmax>
+			<ymax>1695</ymax>
+		</bndbox>
+	</object>
+</annotation>

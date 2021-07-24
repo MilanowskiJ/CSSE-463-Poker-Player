@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C97.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C97.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>34</ymin>
+			<xmax>232</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

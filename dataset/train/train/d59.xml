@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d59.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>311</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>11</ymin>
+			<xmax>162</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

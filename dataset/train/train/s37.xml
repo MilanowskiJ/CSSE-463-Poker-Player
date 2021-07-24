@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s37.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>46</ymin>
+			<xmax>151</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

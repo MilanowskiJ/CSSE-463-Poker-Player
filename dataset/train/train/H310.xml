@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H310.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>22</ymin>
+			<xmax>252</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

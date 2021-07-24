@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s99.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s99.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>190</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>185</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

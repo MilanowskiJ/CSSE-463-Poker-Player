@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>38.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>75</ymin>
+			<xmax>318</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

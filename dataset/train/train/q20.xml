@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>q20.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/q20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>33</ymin>
+			<xmax>530</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

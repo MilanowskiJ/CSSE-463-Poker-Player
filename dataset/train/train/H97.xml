@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H97.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>15</ymin>
+			<xmax>166</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

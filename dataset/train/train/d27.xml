@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d27.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>261</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>11</ymin>
+			<xmax>180</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

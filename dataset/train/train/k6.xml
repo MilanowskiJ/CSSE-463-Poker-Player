@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k6.jpeg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/k6.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>82</ymin>
+			<xmax>1253</xmax>
+			<ymax>1093</ymax>
+		</bndbox>
+	</object>
+</annotation>

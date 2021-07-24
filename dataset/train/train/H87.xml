@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H87.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eight of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>12</ymin>
+			<xmax>172</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H610.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>196</width>
+		<height>258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>15</ymin>
+			<xmax>177</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

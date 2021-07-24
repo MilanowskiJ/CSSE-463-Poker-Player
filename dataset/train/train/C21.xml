@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C21.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>17</ymin>
+			<xmax>211</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

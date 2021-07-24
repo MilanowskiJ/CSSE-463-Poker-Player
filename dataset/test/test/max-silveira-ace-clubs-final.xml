@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>max-silveira-ace-clubs-final.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/max-silveira-ace-clubs-final.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2100</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>45</ymin>
+			<xmax>1478</xmax>
+			<ymax>2026</ymax>
+		</bndbox>
+	</object>
+</annotation>

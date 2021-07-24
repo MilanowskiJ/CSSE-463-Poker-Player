@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>d313.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/d313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of dimaonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>4</ymin>
+			<xmax>178</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

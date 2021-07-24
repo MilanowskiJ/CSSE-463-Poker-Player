@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s57.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>242</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>18</ymin>
+			<xmax>173</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

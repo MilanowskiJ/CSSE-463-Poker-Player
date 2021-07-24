@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C86.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C86.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>189</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eigth of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>189</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

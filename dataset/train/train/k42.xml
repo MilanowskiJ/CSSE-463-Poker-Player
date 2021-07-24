@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k42.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/k42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>64</ymin>
+			<xmax>791</xmax>
+			<ymax>1245</ymax>
+		</bndbox>
+	</object>
+</annotation>

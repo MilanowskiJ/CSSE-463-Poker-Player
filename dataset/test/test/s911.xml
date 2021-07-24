@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>s911.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/s911.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>195</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

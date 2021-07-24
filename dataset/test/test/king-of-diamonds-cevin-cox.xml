@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>king-of-diamonds-cevin-cox.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/king-of-diamonds-cevin-cox.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>717</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>139</ymin>
+			<xmax>458</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

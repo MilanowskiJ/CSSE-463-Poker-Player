@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>jack-of-hearts-vector-258681.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/jack-of-hearts-vector-258681.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>716</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>12</ymin>
+			<xmax>715</xmax>
+			<ymax>978</ymax>
+		</bndbox>
+	</object>
+</annotation>

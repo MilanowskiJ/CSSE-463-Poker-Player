@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>67.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>153</ymin>
+			<xmax>407</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

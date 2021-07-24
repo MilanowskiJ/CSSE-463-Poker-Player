@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>C311.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/C311.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>186</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>183</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

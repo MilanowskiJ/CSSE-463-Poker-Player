@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k8.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/k8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>646</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>9</ymin>
+			<xmax>432</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

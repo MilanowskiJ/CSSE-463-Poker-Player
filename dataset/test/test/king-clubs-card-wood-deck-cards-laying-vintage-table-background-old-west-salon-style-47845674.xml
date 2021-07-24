@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>king-clubs-card-wood-deck-cards-laying-vintage-table-background-old-west-salon-style-47845674.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/king-clubs-card-wood-deck-cards-laying-vintage-table-background-old-west-salon-style-47845674.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>958</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>79</ymin>
+			<xmax>954</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s73.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seven of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>180</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

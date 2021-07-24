@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s21.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>178</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>171</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

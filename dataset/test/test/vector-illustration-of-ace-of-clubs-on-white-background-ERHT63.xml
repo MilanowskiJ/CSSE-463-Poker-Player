@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vector-illustration-of-ace-of-clubs-on-white-background-ERHT63.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/vector-illustration-of-ace-of-clubs-on-white-background-ERHT63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>908</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>8</ymin>
+			<xmax>899</xmax>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+</annotation>

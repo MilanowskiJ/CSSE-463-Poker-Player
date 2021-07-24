@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>playing-card-king-of-hearts-GMDCP2.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/playing-card-king-of-hearts-GMDCP2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>210</ymin>
+			<xmax>796</xmax>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k17.jpeg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/k17.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>444</width>
+		<height>794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>214</ymin>
+			<xmax>417</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

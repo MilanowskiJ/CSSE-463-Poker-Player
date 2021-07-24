@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C63.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>186</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

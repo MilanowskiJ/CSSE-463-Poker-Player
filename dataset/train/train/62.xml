@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>62.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>39</ymin>
+			<xmax>358</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

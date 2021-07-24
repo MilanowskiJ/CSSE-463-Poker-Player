@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>24.jpeg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/24.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>9</ymin>
+			<xmax>715</xmax>
+			<ymax>1273</ymax>
+		</bndbox>
+	</object>
+</annotation>

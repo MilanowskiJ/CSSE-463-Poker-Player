@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H1010.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H1010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>187</width>
+		<height>269</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>12</ymin>
+			<xmax>178</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

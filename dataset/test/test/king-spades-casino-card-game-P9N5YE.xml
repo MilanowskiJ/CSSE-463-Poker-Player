@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>king-spades-casino-card-game-P9N5YE.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/king-spades-casino-card-game-P9N5YE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>914</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>18</ymin>
+			<xmax>881</xmax>
+			<ymax>1291</ymax>
+		</bndbox>
+	</object>
+</annotation>

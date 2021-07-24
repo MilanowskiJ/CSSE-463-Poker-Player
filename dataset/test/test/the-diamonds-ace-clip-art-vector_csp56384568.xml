@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>the-diamonds-ace-clip-art-vector_csp56384568.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/the-diamonds-ace-clip-art-vector_csp56384568.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>321</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>44</ymin>
+			<xmax>292</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

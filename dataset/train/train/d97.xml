@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d97.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>274</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

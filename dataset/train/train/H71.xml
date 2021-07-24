@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H71.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seven of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>31</ymin>
+			<xmax>171</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>qrgji.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/qrgji.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>55</ymin>
+			<xmax>687</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+</annotation>

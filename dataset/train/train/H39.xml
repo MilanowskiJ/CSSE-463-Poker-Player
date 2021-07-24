@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H39.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>31</ymin>
+			<xmax>168</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

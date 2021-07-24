@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>90.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>122</ymin>
+			<xmax>602</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>

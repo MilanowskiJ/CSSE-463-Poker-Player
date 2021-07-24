@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>d369gwe-02dfde2c-d6f7-4b0c-aba5-1d06d7ece799.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/d369gwe-02dfde2c-d6f7-4b0c-aba5-1d06d7ece799.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>769</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>16</ymin>
+			<xmax>742</xmax>
+			<ymax>1060</ymax>
+		</bndbox>
+	</object>
+</annotation>

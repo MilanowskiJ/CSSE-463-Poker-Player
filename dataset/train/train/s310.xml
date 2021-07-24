@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s310.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s310.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>9</ymin>
+			<xmax>165</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

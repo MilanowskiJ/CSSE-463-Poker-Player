@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C82.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C82.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eigth of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>9</ymin>
+			<xmax>182</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

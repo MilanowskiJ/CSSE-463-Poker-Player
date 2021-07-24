@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>s411.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/s411.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>2</ymin>
+			<xmax>194</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

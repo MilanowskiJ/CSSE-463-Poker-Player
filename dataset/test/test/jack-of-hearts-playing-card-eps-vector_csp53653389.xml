@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>jack-of-hearts-playing-card-eps-vector_csp53653389.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/jack-of-hearts-playing-card-eps-vector_csp53653389.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>290</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

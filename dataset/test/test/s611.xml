@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>s611.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/s611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>68</ymin>
+			<xmax>135</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C54.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C54.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>193</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

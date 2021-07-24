@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>playing-card-queen-of-hearts-yellow-red-eps-vector_csp61201785.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/playing-card-queen-of-hearts-yellow-red-eps-vector_csp61201785.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>316</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

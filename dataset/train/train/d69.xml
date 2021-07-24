@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d69.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>175</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>175</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

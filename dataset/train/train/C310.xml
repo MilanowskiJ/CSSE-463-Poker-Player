@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C310.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>14</ymin>
+			<xmax>184</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

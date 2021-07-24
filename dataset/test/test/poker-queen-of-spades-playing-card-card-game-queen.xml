@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>poker-queen-of-spades-playing-card-card-game-queen.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/poker-queen-of-spades-playing-card-card-game-queen.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>66</ymin>
+			<xmax>731</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+</annotation>

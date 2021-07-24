@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>u-g-Q1EHR120.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/u-g-Q1EHR120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>58</ymin>
+			<xmax>337</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

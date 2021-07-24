@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s45.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/s45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>7</ymin>
+			<xmax>178</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

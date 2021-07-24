@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>H58.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/H58.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>215</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>148</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

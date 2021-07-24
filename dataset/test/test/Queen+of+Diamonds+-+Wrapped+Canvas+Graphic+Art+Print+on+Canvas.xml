@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Queen+of+Diamonds+-+Wrapped+Canvas+Graphic+Art+Print+on+Canvas.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/Queen+of+Diamonds+-+Wrapped+Canvas+Graphic+Art+Print+on+Canvas.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>5</ymin>
+			<xmax>684</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

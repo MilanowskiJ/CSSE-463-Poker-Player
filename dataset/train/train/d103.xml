@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d103.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>187</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>8</ymin>
+			<xmax>180</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

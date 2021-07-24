@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>H211.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/H211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>252</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>47</ymin>
+			<xmax>168</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d86.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eight of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>55</ymin>
+			<xmax>154</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>qdsdaf.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/qdsdaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1054</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>117</ymin>
+			<xmax>888</xmax>
+			<ymax>1184</ymax>
+		</bndbox>
+	</object>
+</annotation>

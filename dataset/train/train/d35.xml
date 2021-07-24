@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>d35.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/d35.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>201</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

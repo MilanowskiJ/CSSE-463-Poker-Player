@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>s1012.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/s1012.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>4</ymin>
+			<xmax>177</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

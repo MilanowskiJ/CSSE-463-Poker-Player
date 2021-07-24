@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>qwefwef.jpeg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/qwefwef.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>9</ymin>
+			<xmax>175</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

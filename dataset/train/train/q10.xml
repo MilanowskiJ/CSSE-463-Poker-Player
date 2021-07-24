@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>q10.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/q10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>789</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>70</ymin>
+			<xmax>709</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

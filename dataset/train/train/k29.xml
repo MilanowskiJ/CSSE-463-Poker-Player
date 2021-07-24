@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>k29.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/k29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>891</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>132</ymin>
+			<xmax>581</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>

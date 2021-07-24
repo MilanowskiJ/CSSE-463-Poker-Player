@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>H811.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/H811.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eight of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>177</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

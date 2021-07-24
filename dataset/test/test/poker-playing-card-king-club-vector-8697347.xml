@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>poker-playing-card-king-club-vector-8697347.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/poker-playing-card-king-club-vector-8697347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>23</ymin>
+			<xmax>672</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

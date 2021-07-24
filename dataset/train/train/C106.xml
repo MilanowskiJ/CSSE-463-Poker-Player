@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>C106.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/C106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>15</ymin>
+			<xmax>165</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

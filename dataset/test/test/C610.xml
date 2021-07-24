@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>C610.png</filename>
+	<path>/home/gunjan/Desktop/card_images/test/C610.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>4</ymin>
+			<xmax>212</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

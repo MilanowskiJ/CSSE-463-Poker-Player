@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>q3.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/q3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>1392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>148</ymin>
+			<xmax>854</xmax>
+			<ymax>1173</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>qgrdr.png</filename>
+	<path>/home/gunjan/Desktop/card_images/train/qgrdr.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>16</ymin>
+			<xmax>673</xmax>
+			<ymax>1005</ymax>
+		</bndbox>
+	</object>
+</annotation>

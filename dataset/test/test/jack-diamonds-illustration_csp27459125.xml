@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>jack-diamonds-illustration_csp27459125.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/jack-diamonds-illustration_csp27459125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>34</ymin>
+			<xmax>317</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

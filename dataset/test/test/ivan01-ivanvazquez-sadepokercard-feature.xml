@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>ivan01-ivanvazquez-sadepokercard-feature.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/ivan01-ivanvazquez-sadepokercard-feature.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3917</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1320</xmin>
+			<ymin>361</ymin>
+			<xmax>2586</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>q25.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/train/q25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>947</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>31</ymin>
+			<xmax>919</xmax>
+			<ymax>1453</ymax>
+		</bndbox>
+	</object>
+</annotation>

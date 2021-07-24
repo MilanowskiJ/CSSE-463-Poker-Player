@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>C1013.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/C1013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>38</ymin>
+			<xmax>166</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

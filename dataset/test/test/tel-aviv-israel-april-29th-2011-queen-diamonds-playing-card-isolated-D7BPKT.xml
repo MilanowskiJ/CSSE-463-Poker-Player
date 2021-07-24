@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>tel-aviv-israel-april-29th-2011-queen-diamonds-playing-card-isolated-D7BPKT.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/tel-aviv-israel-april-29th-2011-queen-diamonds-playing-card-isolated-D7BPKT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>955</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>45</ymin>
+			<xmax>923</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+</annotation>

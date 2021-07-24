@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>flat,550x550,075,f.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/flat,550x550,075,f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of clubs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>74</ymin>
+			<xmax>384</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

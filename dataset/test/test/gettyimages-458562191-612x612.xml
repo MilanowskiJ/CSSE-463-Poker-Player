@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>gettyimages-458562191-612x612.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/gettyimages-458562191-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen of spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>16</ymin>
+			<xmax>391</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

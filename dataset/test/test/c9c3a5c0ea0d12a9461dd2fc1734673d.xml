@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>c9c3a5c0ea0d12a9461dd2fc1734673d.jpg</filename>
+	<path>/home/gunjan/Desktop/card_images/test/c9c3a5c0ea0d12a9461dd2fc1734673d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace of hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>26</ymin>
+			<xmax>370</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>
