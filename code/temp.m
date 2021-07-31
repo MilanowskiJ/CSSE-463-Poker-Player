@@ -23,9 +23,53 @@ trainImages.Labels = trainLabels;
 
 % Make datastores for the validation and testing sets similarly.
 
-fprintf('Read images into datastores\n');
-
-%trainImages.Files == 
-
 %xTrain = imageDatastoreReader(trainImages);
 %yTrain = trainImages.Labels;
+
+% Make datastores for the validation and testing sets similarly.
+
+fprintf('Read images into datastores\n');
+
+% Create Transfer Network
+network = alexnet;
+inputSize = network.Layers(1).InputSize;
+
+transferredLayers = network.Layers(1:end-3);
+
+[imgTrain,imgValidation] = splitEachLabel(trainImages,0.7,'randomized');
+
+layers = [
+  transferredLayers
+  fullyConnectedLayer(2, 'WeightLearnRateFactor', 30, 'BiasLearnRateFactor', 20)
+  softmaxLayer
+  classificationLayer];
+
+% Scale Images
+augmentedTrainingImages = augmentedImageDatastore(inputSize(1:2),imgTrain,'ColorPreprocessing', 'gray2rgb');
+augmentedValidationImages = augmentedImageDatastore(inputSize(1:2),imgValidation,'ColorPreprocessing', 'gray2rgb');
+
+augmentedTrainingImages = augmentedImageDatastore(inputSize(1:2),augmentedTrainingImages);
+augmentedValidationImages = augmentedImageDatastore(inputSize(1:2),augmentedValidationImages);
+
+% Train Model
+options = trainingOptions('sgdm', ...
+    'MiniBatchSize',10, ...
+    'MaxEpochs',30, ...
+    'InitialLearnRate',1e-3, ...
+    'Shuffle','every-epoch', ...
+    'ValidationData',augmentedValidationImages, ...
+    'ValidationPatience',5, ...
+    'ValidationFrequency',5, ...
+    'Verbose',false, ...
+    'Plots','training-progress');
+
+transferNetwork = trainNetwork({augmentedTrainingImages, imgTrain.Labels}, layers, options);
+
+% Test Model
+% testImages = imageDatastore(...
+%    [rootdir 'test'], ...
+%    'IncludeSubfolders',true, ...
+%    'LabelSource', 'foldernames');
+% augmentedTestImages = augmentedImageDatastore(inputSize(1:2),testImages);
+% 
+% [YPred,scores] = classify(transferNetwork,augmentedTestImages);
