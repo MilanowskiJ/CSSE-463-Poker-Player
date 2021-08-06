@@ -1,4 +1,4 @@
-rootDir = 'C:\Users\milanoj\Documents\Classes\CSSE463\CSSE-463-Poker-Player\';
+rootDir = 'C:\Users\brownjw1\Documents\CSSE_463_Image Recognition\Final_Project\CSSE-463-Poker-Player-main\';
 trainDir = [rootDir '\dataset\train\train'];
 trainLabelDir = [rootDir '\dataset\train_labels_only.csv'];
 
@@ -11,7 +11,7 @@ tempLabels = readtable(trainLabelDir);
 trainLabels = table2cell(tempLabels);
 trainLabels = strcat(trainLabels(:,1),trainLabels(:,3));
 
-trainImages.Labels = trainLabels;
+trainImages.Labels = categorical(trainLabels);
 
 % for i = 1:size(trainLabels, 1)
 %     for j = 1:size(trainLabels, 1)
@@ -40,16 +40,18 @@ transferredLayers = network.Layers(1:end-3);
 
 layers = [
   transferredLayers
-  fullyConnectedLayer(2, 'WeightLearnRateFactor', 30, 'BiasLearnRateFactor', 20)
+  fullyConnectedLayer(51, 'WeightLearnRateFactor', 30, 'BiasLearnRateFactor', 20)
   softmaxLayer
   classificationLayer];
 
 % Scale Images
+% imgTrain = gray2rgb(imgTrain);
+% imgValidation = gray2rgb(imgValidation);
 augmentedTrainingImages = augmentedImageDatastore(inputSize(1:2),imgTrain,'ColorPreprocessing', 'gray2rgb');
 augmentedValidationImages = augmentedImageDatastore(inputSize(1:2),imgValidation,'ColorPreprocessing', 'gray2rgb');
-
-augmentedTrainingImages = augmentedImageDatastore(inputSize(1:2),augmentedTrainingImages);
-augmentedValidationImages = augmentedImageDatastore(inputSize(1:2),augmentedValidationImages);
+ 
+% augmentedTrainingImages = augmentedImageDatastore(inputSize(1:2),augmentedTrainingImages);
+% augmentedValidationImages = augmentedImageDatastore(inputSize(1:2),augmentedValidationImages);
 
 % Train Model
 options = trainingOptions('sgdm', ...
@@ -57,13 +59,14 @@ options = trainingOptions('sgdm', ...
     'MaxEpochs',30, ...
     'InitialLearnRate',1e-3, ...
     'Shuffle','every-epoch', ...
-    'ValidationData',augmentedValidationImages, ...
-    'ValidationPatience',5, ...
-    'ValidationFrequency',5, ...
     'Verbose',false, ...
     'Plots','training-progress');
+%     'ValidationData',augmentedValidationImages, ...
+%     'ValidationPatience',5, ...
+%     'ValidationFrequency',5, ...
 
-transferNetwork = trainNetwork({augmentedTrainingImages, imgTrain.Labels}, layers, options);
+
+transferNetwork = trainNetwork(augmentedTrainingImages, layers, options);
 
 % Test Model
 % testImages = imageDatastore(...
